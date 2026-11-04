@@ -269,9 +269,11 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 <img width="1917" height="1108" alt="Screenshot 2026-10-30 091831" src="https://github.com/user-attachments/assets/f06786b4-1580-4165-866b-025dd4b92851" />
 
-<img width="1920" height="1080" alt="637393357-21085b19-b084-40c0-8e32-988587792e8a" src="https://github.com/user-attachments/assets/68ffe35a-55be-4730-ac29-c00fa20b8e4a" />
+<img width="1892" height="1130" alt="image" src="https://github.com/user-attachments/assets/8f80640f-4899-4caa-813e-6cf4cdbcbae7" />
 
-<img width="391" height="610" alt="Screenshot 2026-10-30 092100" src="https://github.com/user-attachments/assets/725cbbc3-bc98-4a45-8dbd-17dc377192b5" />
+
+<img width="1917" height="1197" alt="image" src="https://github.com/user-attachments/assets/d3fa9579-a3c9-4e6f-afee-ff744961900c" />
+
 
 
 
